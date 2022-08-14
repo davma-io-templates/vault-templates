@@ -1,0 +1,14 @@
+version: "3"
+services:
+  vault:
+    image: davma/vault-ui:latest
+    restart: unless-stopped
+    ports:
+     - "8200:8200"
+     - "8201:8201"
+    volumes:
+      - vault-data:/vault
+      - optvault-data:/opt/vault
+volumes:
+  vault-data:
+  optvault-data:
