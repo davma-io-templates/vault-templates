@@ -18,7 +18,9 @@ New versions of this application will only be provided once it has been verified
 
 For more info or help [contact](mailto:contact@davma.io).
 
-[![Update application to Napptive Playground](https://github.com/davma-io-templates/wikijs-template/actions/workflows/napptive-push.yml/badge.svg)](https://github.com/davma-io-templates/wikijs-template/actions/workflows/napptive-push.yml)
+[![Build and push images](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml/badge.svg)](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml)
+[![Docker Pulls](https://img.shields.io/docker/pulls/davma/vault-ui?logo=docker&logoColor=white)](https://hub.docker.com/r/davma/vault-ui)
+[![Update application to Napptive Playground](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml/badge.svg)](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml)
 
 ## Minimal resources available
 The following resources need to be available in your environment for a successful deployment:
