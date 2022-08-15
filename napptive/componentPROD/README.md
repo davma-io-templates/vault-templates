@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="https://pbs.twimg.com/media/EZl8SPHWAAIamAu.jpg" alt="drawing" width="450"/>
+<img src="https://www.datocms-assets.com/2885/1542059843-vaultshare-imglogo-w-stack-graphic1200x630.png" alt="drawing" width="550"/>
 
 </br>
 
@@ -33,7 +33,7 @@ playground apps open davmaio-Vault
 The davmaio-Vault instance automatically gets a public URL in the form of:
 
 ```
-https://davmaio-vault-<active-namespace>.apps.playground.napptive.dev
+https://davmaio-vault-<active-namespace>.apps.playground.napptive.dev/ui
 ```
 
 You can get the full link in endpoints inside component davmaio-vault
@@ -45,7 +45,7 @@ Once the Vault UI has loaded, you should:
 
 Now you can access to unlock the vault
 
-### You can access the most complete training on the [HashiCorp Vault website](https://learn.hashicorp.com/collections/vault/getting-started-ui)
+__You can access the most complete training on the [HashiCorp Vault website](https://learn.hashicorp.com/collections/vault/getting-started-ui)__
 
 
 ## Minimal resources available
