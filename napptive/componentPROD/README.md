@@ -6,13 +6,9 @@
 
 </br>
 
-### HashiCorp Vault is an identity-based secrets and encryption management system
-</br>
+## HashiCorp Vault
 
-
-[![Build and push images](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml/badge.svg)](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml)
-[![Update application to Napptive Playground](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml/badge.svg)](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml)
-[![Docker Pulls](https://img.shields.io/docker/pulls/davma/vault-ui?logo=docker&logoColor=white)](https://hub.docker.com/r/davma/vault-ui)
+Identity-based secrets and encryption management system
 
  __This version of the application is designed for PRODUCTION ENVIRONMENTS__.  
 
@@ -21,6 +17,11 @@ __ATTENTION Before performing the deployment you must deploy the storage compone
 For more info or help [contact](mailto:contact@davma.io).  
 
 It is not possible to deploy this version with a free Napptive account
+
+[![Build and push images](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml/badge.svg)](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml)
+[![Update application to Napptive Playground](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml/badge.svg)](https://github.com/davma-io-templates/vault-templates/actions/workflows/napptive-push.yml)
+[![Docker Pulls](https://img.shields.io/docker/pulls/davma/vault-ui?logo=docker&logoColor=white)](https://hub.docker.com/r/davma/vault-ui)
+
 
 ## How to access to Vault
 
