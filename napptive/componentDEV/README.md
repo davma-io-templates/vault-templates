@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="https://pbs.twimg.com/media/EZl8SPHWAAIamAu.jpg" alt="drawing" width="600"/>
+<img src="https://pbs.twimg.com/media/EZl8SPHWAAIamAu.jpg" alt="drawing" width="450"/>
 
 </br>
 
