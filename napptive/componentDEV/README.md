@@ -1,4 +1,6 @@
-# davma.io Vault
+# Vault
+
+Deployment in the catalog and configuration and in some cases the container image is maintained and updated by [davma.io](mailto:contact@davma.io)
 
 </br>
 
