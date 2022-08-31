@@ -6,12 +6,12 @@ metadata:
   name: vault-storage
 spec:
   components:
-    - name: vault-data
+    - name: vaultdata
       type: pvc
       properties:
         name: vault-data
         accessMode: "ReadWriteOnce"
-    - name: optvault-data
+    - name: optvaultdata
       type: pvc
       properties:
         name: optvault-data
