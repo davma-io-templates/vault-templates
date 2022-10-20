@@ -1,5 +1,7 @@
 # Vault
 
+__This repository is deprecated. You can find the latest versions for napptive playground in the following link: [https://github.com/davma-io-templates/napptive-template](https://github.com/davma-io-templates/napptive-template)__
+
 HashiCorp Vault is an identity-based secrets and encryption management system.
 
 [![Build and push images](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml/badge.svg)](https://github.com/davma-io-images/vault-ui/actions/workflows/docker-image.yml)
